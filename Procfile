@@ -1,0 +1,1 @@
+web: gunicorn hefesto_be.wsgi --log-file -
